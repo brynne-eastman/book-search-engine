@@ -59,10 +59,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - ```npm start``` to start the server
 
 ### Website Link
-[Heroku Application]https://fierce-bastion-56155.herokuapp.com/
+[Heroku Application](https://fierce-bastion-56155.herokuapp.com/)
 
 ### Screengrab
-![screenshot](./public/assets/book-search-engine_screengrab.PNG)
+![screenshot](./clinet/public/assets/book-search-engine_screengrab.PNG)
 
 ### License
 - MIT
