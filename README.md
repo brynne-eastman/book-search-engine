@@ -62,7 +62,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 Click here for deployed app: https://fierce-bastion-56155.herokuapp.com/
 
 ### Screengrab
-![screenshot]('book-search-engine_screengrab.PNG')
+![screenshot](book-search-engine_screengrab.PNG)
 
 ### License
 - MIT
