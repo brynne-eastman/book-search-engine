@@ -62,7 +62,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 [Heroku Application](https://fierce-bastion-56155.herokuapp.com/)
 
 ### Screengrab
-![screenshot](./clinet/public/assets/book-search-engine_screengrab.PNG)
+![screenshot](./client/public/assets/book-search-engine_screengrab.PNG)
 
 ### License
 - MIT
